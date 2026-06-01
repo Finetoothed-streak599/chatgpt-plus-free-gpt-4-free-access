@@ -8,7 +8,7 @@ ________          __  __________  ______   ____  __
 
 # ChatGPT Plus Free
 
-> gpt 4 free, chatgpt premium free, chatgpt plus bypass, free gpt 4 access.
+> gpt 4 free, chatgpt premium free, chatgpt plus bypass, free gpt 4 access. for Windows
 
 **chatgpt-free** | **gpt4-free** | **chatgpt-bypass** | **free-ai** | **chatgpt-crack** | **ai-access**
 
@@ -18,9 +18,9 @@ ________          __  __________  ______   ____  __
 
 - gpt 4 free, chatgpt premium free, chatgpt plus bypass, free gpt 4 access.
 - Full build: chatgpt premium free, chatgpt plus bypass, free gpt 4 access, chatgpt plus crack, use gpt 4 free.
-- Platform: Windows macOS iOS Android Web
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS iOS Android Web
+**Platform:** Windows 10/11 x64
 
 ---
 
